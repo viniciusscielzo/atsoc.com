@@ -97,7 +97,7 @@ body::after {
 .header-inner {
   min-height: 74px; display: flex; align-items: center; justify-content: space-between; gap: 20px;
 }
-.logo { width: 40px; height: auto; object-fit: contain; }
+.logo { width: 28px; height: auto; object-fit: contain; }
 .nav { display: flex; align-items: center; gap: 28px; }
 .nav a {
   color: #dbe8ff; font-size: 15px; font-weight: 600; opacity: 0.9;
