@@ -321,3 +321,15 @@ textarea { min-height: 140px; resize: vertical; }
   word-break: break-word;
   overflow-wrap: anywhere;
 }
+
+.whatsapp-float {
+  width: 64px;
+  min-width: 64px;
+  padding: 0;
+}
+
+.whatsapp-icon {
+  width: 26px;
+  height: 26px;
+  display: block;
+}
